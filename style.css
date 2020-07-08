@@ -48,6 +48,7 @@ body {
     text-align: center;
     color: white;
     padding-top: 10px;
+    cursor: pointer;
 }
 
 .under-navbar-part {
@@ -112,9 +113,9 @@ body {
     padding-top: 20px;
 }
 
-#online-course h2 {
+#online-courses h2 {
     font-weight: bold;
-    padding-bottom: 300px;
+    padding-bottom: 30px;
 }
 
 .card-footer img {
@@ -130,3 +131,48 @@ body {
 
 /*Testimonial part*/
 
+#testimonial h2 {
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+
+.man {
+    width: 120px;
+    height: 120px;
+}
+
+.testimonial-part {
+    padding-left: 150px;
+}
+
+.testimonial-part p {
+    width: 583px;
+    height: 90px;
+    padding-left: 20px;
+}
+
+/*lower part*/
+
+#lower ul {
+    list-style-type: none;
+}
+
+#lower {
+    padding-top: 50px;
+    width: 1463px;
+    height: 369px;
+    background-color: #282531;
+    color: white;
+}
+
+#lower .row {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+footer {
+    background-color: #282531;
+    color: white;
+    width: 1463px;
+    height: 20px;
+}
