@@ -1,0 +1,91 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* upper part*/
+.top-bar {
+    padding-right: 100px;
+}
+
+.top-part {
+    background-color: #F0FFF0;
+    height: 576px;
+}
+
+.sign-in {
+
+    background-color: #21B573;
+    border-radius: 33px;
+    color: white;
+}
+
+#logo {
+    width: 250px;
+    height: 59px;
+    padding-left: 100px;
+}
+
+.text1 {
+    color: #FD511A;
+}
+
+.lorem-text {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #6C6B6B;
+}
+
+.get-start {
+
+    background: #21B573;
+    border-radius: 33px;
+    width: 153px;
+    height: 43px;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+}
+
+.under-navbar-part {
+    padding-top: 50px;
+}
+
+.left-part {
+    padding-left: 100px;
+}
+
+.right-part {
+    padding-right: 100px;
+}
+
+/*category-part*/
+.category img {
+    width: 75px;
+    height: 80px;
+}
+
+.category {
+    padding-top: 60px;
+    
+    
+}
+
+.books, .student, .student-2, .test {
+    
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    width: 270px;
+    height: 270px;
+    align-items: center;
+    border: none;
+    padding-top: 10px;
+    padding-top:50px
+    
+    
+}
+.books:hover, .student:hover, .student-2:hover, .test:hover{
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgrey;
+    cursor: pointer;
+    border: none;
+}
