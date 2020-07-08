@@ -160,7 +160,7 @@ body {
 #lower {
     padding-top: 50px;
     width: 1463px;
-    height: 369px;
+    height: 400px;
     background-color: #282531;
     color: white;
 }
@@ -170,9 +170,14 @@ body {
     padding-right: 100px;
 }
 
+.contact{
+    padding-top: 25px;
+}
+
 footer {
     background-color: #282531;
     color: white;
     width: 1463px;
     height: 20px;
+    padding-top: 150px;
 }
