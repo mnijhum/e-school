@@ -67,6 +67,7 @@ body {
 .category img {
     width: 75px;
     height: 80px;
+    padding-bottom: 15px;
 }
 
 .category {
